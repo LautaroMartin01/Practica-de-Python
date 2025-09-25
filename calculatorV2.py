@@ -39,3 +39,5 @@ while True:
         break
 
     num1 = resultado
+
+    
